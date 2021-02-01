@@ -6,4 +6,3 @@ How neat is that?
 
 ---
 
-That's pretty neat!

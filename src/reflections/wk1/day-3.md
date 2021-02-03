@@ -9,4 +9,13 @@ How do you think good design influences people when visiting a website and what 
 >
 
 ---
-## Daily Project
+## CSS Stoplight
+
+
+## SmileGrid
+https://github.com/ashley-herrera/smilegrid
+
+## Two Grid Tricks
+
+
+## Clone Site

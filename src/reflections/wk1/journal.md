@@ -1,8 +1,7 @@
-# Title
+# Journal
 
-## Subtitle
+/## Subtitle/
 
-How neat is that?
 
 ---
 # Tuesday

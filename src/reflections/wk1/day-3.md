@@ -8,5 +8,5 @@ Compile a couple resources that you think might be helpful when trying to review
 How do you think good design influences people when visiting a website and what sorts of things could you convey through design alone?
 >
 
-
-# Daily Project
+---
+## Daily Project

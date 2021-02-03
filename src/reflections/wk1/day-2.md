@@ -8,6 +8,6 @@ What is Specificity and how might you use it to your benefit?
 What problems do you think you could run into if you over-utilized the !important feature?
 >
 
-
-# Daily Project
+---
+## Daily Project
 https://github.com/ashley-herrera/coolwebsite

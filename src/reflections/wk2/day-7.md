@@ -11,4 +11,4 @@ What are higher order functions? Can you provide an example?
 ## Complex Object
 https://github.com/ashley-herrera/complexobject
 
-## Afternoon Challenge
+## JS Loops and Arrays

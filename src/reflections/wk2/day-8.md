@@ -12,3 +12,4 @@ Outside of writing everything to the console, what is a better way to debug your
 https://github.com/ashley-herrera/even-or-odd
 
 ## Rock,Paper,Scissors
+https://github.com/ashley-herrera/rock-paper-scissors

@@ -12,3 +12,4 @@ What are higher order functions? Can you provide an example?
 https://github.com/ashley-herrera/complexobject
 
 ## JS Loops and Arrays
+https://github.com/ashley-herrera/js-loopsandarrays

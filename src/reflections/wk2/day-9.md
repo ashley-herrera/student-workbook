@@ -8,4 +8,5 @@ How do you find answers when you are stuck?
 From the entire article what are your biggest takeaways?
 >
 
-## Daily
+## SlapGame
+https://github.com/ashley-herrera/SlapGame

@@ -53,7 +53,7 @@ for ( let i = 0; i < arr.length; _______ ) {
 ```
 <!-- enter you answer in the space below -->
 ```
-i++
+Parameter. i++
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
@@ -64,7 +64,7 @@ Document Object Module. HTML file is accessed first.
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-
+undefined, Boolean, Number, String, BigInt, Symbol, Object, Function, null
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
@@ -74,5 +74,5 @@ A parameter is used to define a function. They are names in the function definit
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
 ```
-
+Primitive stores a value. Reference stores the location/address.
 ```

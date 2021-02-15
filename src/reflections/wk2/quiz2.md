@@ -13,7 +13,11 @@ A function is a subprogram designed to perform a particular task.
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+S - Single-responsibility Principle
+O - Open-closed Principle
+L - Liskov Substitution Principle
+I - Interface Segregation Principle
+D - Dependency Inversion Principle
 ```
 **4.** Given this array: 
 ```js
@@ -38,7 +42,9 @@ you.push(them)
 **6.** Give an example of a JavaScript `Conditional`:
 <!-- enter you answer in the space below -->
 ```
-
+if (i >= 10){
+  console.log(i)
+}
 ```
 **7.** In the `for loop` below, what is the name of the piece belongs inside the empty "______" space? What would you put here to increase `i` by one on every iteration?
 ```js
@@ -52,7 +58,7 @@ i++
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
-
+Document Object Module. HTML file is accessed first.
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?

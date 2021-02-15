@@ -8,7 +8,7 @@ var, let, const
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
 ```
-
+A function is a subprogram designed to perform a particular task.
 ```
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
@@ -32,7 +32,7 @@ let them = { name:"Them", hair: false, friends: [] }
 how would you .push the `them` object into the `you` object's array of friends?
 <!-- enter you answer in the space below -->
 ```
-
+you.push(them)
 ```
 
 **6.** Give an example of a JavaScript `Conditional`:
@@ -63,7 +63,7 @@ i++
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
 ```
-
+A parameter is used to define a function. They are names in the function definition. Arguments are the values the function receives from each parameter.
 ```
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->

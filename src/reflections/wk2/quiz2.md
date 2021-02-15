@@ -3,7 +3,7 @@
 **1.** Which keywords are used to declare a variable in JavaScript?
 <!-- enter you answer in the space below -->
 ```
-
+Var, let
 ```
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
@@ -22,7 +22,7 @@ let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
 What index is the pineapple's current position? How do you know?
 <!-- enter you answer in the space below -->
 ```
-
+The index is 2. Indexes start at 0 not 1.
 ```
 **5.** With these two objects: 
 ```js

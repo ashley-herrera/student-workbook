@@ -13,7 +13,7 @@
 **3.** What does the `O` represent in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+The open-closed principle
 ```
 **4.** What is a callback / higher order function?
 <!-- enter you answer in the space below -->

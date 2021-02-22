@@ -1,5 +1,6 @@
 # Friday
->
+No questions
 
 ---
-## Link
+## Task Master
+https://github.com/ashley-herrera/wk3checkpoint

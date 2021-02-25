@@ -3,7 +3,7 @@ What problem does using exports solve?
 >It links the controllers and services together.
 
 How does export differ from export default?
->
+>Exports are useful to export several values. There is only one export default per module.
 
 What is a benefit of using the Module System?
 >Your code is a lot more organized and not as long. It also hides your code from average users who want to mess with it.

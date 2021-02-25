@@ -21,7 +21,7 @@ staff.property
 **3.** What is Encapsulation?
 <!-- enter you answer in the space below -->
 ```
-Encapsulation is hiding data from the front page or the view.
+It's used to hide the values or state of a structured data object inside a class. It prevents the user from gaining direct access to them.
 ```
 **4.** What does the S stand for in the `SOLID` principles?
 <!-- enter you answer in the space below -->
@@ -31,12 +31,12 @@ Single-responsibility
 **5.** What the difference between a `class` and an instance of a `class`?
 <!-- enter you answer in the space below -->
 ```
-
+Class variables are shared between a class and all of its subclasses. A class instance belongs to only one specific class.
 ```
 **6.** What is a `Proxy` object?
 <!-- enter you answer in the space below -->
 ```
-
+It's an intermediary between the client and an accessible object
 ```
 
 **7.** What is the purpose of the `MVC` pattern?

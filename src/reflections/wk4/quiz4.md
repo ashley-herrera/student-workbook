@@ -33,7 +33,7 @@ A promise is created from an async method which tells the function that it can r
 **7.** What does the `API` acronym stand for?
 <!-- enter you answer in the space below -->
 ```
-Application programming interface
+Application programming interface. It's a software intermediary that allows two applications to talk to each other.
 ```
 **8.** In the `MVC` design pattern, who is responsible for making calls to `APIs`?
 <!-- enter you answer in the space below -->

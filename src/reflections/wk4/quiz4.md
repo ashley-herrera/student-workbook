@@ -3,7 +3,7 @@
 **1.** What is the difference between `asynchronous` code and `synchronous` code?
 <!-- enter you answer in the space below -->
 ```
-Synchronus code runs from top to bottom in order of code. Asynchronus allows blocks of code to run at different times so the whole page can load before having to execute anything.
+Synchronous code runs from top to bottom in order of code. Asynchronous allows blocks of code to run at different times so the whole page can load before having to execute anything.
 ```
 **2.** What is an event listener?
 <!-- enter you answer in the space below -->

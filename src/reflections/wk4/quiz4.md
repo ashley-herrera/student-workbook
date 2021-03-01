@@ -23,7 +23,7 @@ A callback function is a function that is passed as an argument to another funct
 **5.** What is a `promise`? How do you capture an error from a `promise`?
 <!-- enter you answer in the space below -->
 ```
-A promise is created from an async method which tells the function that it can run. 
+A promise is created from an async method which tells the function that it can run. catch() is used to capture an error from a promise.
 ```
 **6.** Name three processes used to make requests over `HTTP`?
 <!-- enter you answer in the space below -->

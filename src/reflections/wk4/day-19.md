@@ -7,7 +7,7 @@ What does Stateless mean?
 
 
 What URL pattern is used when writing a RESTful API?
->
+>URLs should include nouns, not verbs. Use plural nouns only for consistency (no singular nouns).
 
 
 ## Link

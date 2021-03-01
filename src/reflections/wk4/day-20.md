@@ -1,4 +1,4 @@
 # Friday
-
+>No questions
 
 ## Link

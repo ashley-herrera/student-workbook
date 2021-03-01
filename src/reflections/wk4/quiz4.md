@@ -33,12 +33,12 @@ A promise is created from an async method which tells the function that it can r
 **7.** What does the `API` acronym stand for?
 <!-- enter you answer in the space below -->
 ```
-
+Application programming interface
 ```
 **8.** In the `MVC` design pattern, who is responsible for making calls to `APIs`?
 <!-- enter you answer in the space below -->
 ```
-
+The controller is responsible for calling the api.
 ```
 **9.** What is the purpose of encapsulation in programming?
 <!-- enter you answer in the space below -->

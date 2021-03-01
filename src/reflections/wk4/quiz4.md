@@ -3,12 +3,12 @@
 **1.** What is the difference between `asynchronous` code and `synchronous` code?
 <!-- enter you answer in the space below -->
 ```
-
+Synchronus code runs from top to bottom in order of code. Asynchronus allows blocks of code to run at different times so the whole page can load before having to execute anything.
 ```
 **2.** What is an event listener?
 <!-- enter you answer in the space below -->
 ```
-
+An event listener checks for any updates and tells the page to reload once those changes are made.
 ```
 **3.** What does the `O` represent in the `SOLID` principles?
 <!-- enter you answer in the space below -->
@@ -23,7 +23,7 @@ The open-closed principle
 **5.** What is a `promise`? How do you capture an error from a `promise`?
 <!-- enter you answer in the space below -->
 ```
-
+A promise is created from an async method which tells the function that it can run. 
 ```
 **6.** Name three processes used to make requests over `HTTP`?
 <!-- enter you answer in the space below -->
@@ -43,15 +43,15 @@ The open-closed principle
 **9.** What is the purpose of encapsulation in programming?
 <!-- enter you answer in the space below -->
 ```
-
+Encapsulation hides important information from the viewer.
 ```
 **10.** What is `HTTP` response code for a successful request?
 <!-- enter you answer in the space below -->
 ```
-
+200
 ```
 **11.** What is a 500 error?
 <!-- enter you answer in the space below -->
 ```
-
+ The server encountered an unexpected condition that prevented it from fulfilling the request
 ```

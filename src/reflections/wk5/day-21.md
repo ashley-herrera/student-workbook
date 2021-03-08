@@ -6,4 +6,4 @@ What is the format of a query parameter? How does it start? How do you distingui
 >The query parameter format is key=value. Parameters are separated by &. If there are multiple parameters that are the same they will be grouped into an array.
 
 When do you think Query parameters would be helpful when writing your server?
->
+>Query parameters would be useful when looking for a specific item. It can be identified by its category and ID. 

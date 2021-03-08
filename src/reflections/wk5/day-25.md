@@ -1,2 +1,0 @@
-# Friday
-Hack-a-thon

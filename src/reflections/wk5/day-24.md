@@ -7,3 +7,6 @@ When might you use a virtual property?
 
 How do you search by a virtual properties value?
 >You search by virtual properties using schema.virtual('property'). The virtual properties live in the schemas so you have to get access to them first.
+
+## Hack-a-thon project
+https://github.com/ashley-herrera/confession.io

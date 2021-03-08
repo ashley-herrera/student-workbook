@@ -7,3 +7,6 @@ What are the benefits of the traditional linking of relationships instead of Emb
 
 What are some of the challenges faced when deciding how to manage a many-to-many relationship that ultimately drive your decision on how to create it?
 >A many to many relationship requires a lot of controllers and services. It's difficult to keep track of the relationships. I will typically start with the first item and map it to its corresponding relationships on paper. After that I move on to the second item and do the same thing. 
+
+## Gregslist API
+https://github.com/ashley-herrera/gregslistnode

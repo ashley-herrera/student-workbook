@@ -8,4 +8,4 @@ How have you utilized lifecycle hooks in your afternoon projects?
 What are mounting hooks? When might you use them?
 >
 
-## Finished Gregslist
+## Gregslist 2.0

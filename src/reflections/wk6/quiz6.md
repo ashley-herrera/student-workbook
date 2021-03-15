@@ -3,17 +3,17 @@
 **1.** When using the Vue `cli` what is the command to initialize a project?
 <!-- enter you answer in the space below -->
 ```
-
+The command to initialize a project is bcw-create or npm create (name).
 ```
 **2.** Where can you find the scripts to startup you project on localhost?
 <!-- enter you answer in the space below -->
 ```
-
+Typically npm will have your scripts for you. All you have to do is install them.
 ```
 **3.** What feature of Vue can be used to repeat an element using a collection of data?
 <!-- enter you answer in the space below -->
 ```
-
+Using v-for will iterate over element in a collection. V-repeat would probably be the better answer because it's specifically used for repeating information.
 ```
 **4.** What are the three tags that make up a Vue component?
 <!-- enter you answer in the space below -->

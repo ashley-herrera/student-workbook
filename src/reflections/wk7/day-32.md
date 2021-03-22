@@ -6,4 +6,4 @@ What are some benefits of taking into account the User Experience?
 >
 
 Why is the User Experience important?
->
+>User 

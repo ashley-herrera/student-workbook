@@ -10,7 +10,7 @@
 **2.** The `SPA` acronym stands for what?
 <!-- enter you answer in the space below -->
 ```
-
+SPA stands for 
 ```
 **3.** What are some of the advantages/uses of a `SPA` over a traditional one?
 <!-- enter you answer in the space below -->
@@ -20,7 +20,7 @@
 **4.** What does the `onMounted` method in Vue do?
 <!-- enter you answer in the space below -->
 ```
-
+The onMounted method loads an element when the page first loads.
 ```
 **5.** What is the `v-model` attribute in Vue for, and when might you use it?
 <!-- enter you answer in the space below -->

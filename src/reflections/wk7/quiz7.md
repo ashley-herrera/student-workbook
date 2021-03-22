@@ -5,6 +5,7 @@
 <!-- enter you answer in the space below -->
 ```
 One way to bind data in vue is with the : method.
+Another method is using the curly bois {{}}.
 ```
 
 **2.** The `SPA` acronym stands for what?
@@ -35,15 +36,15 @@ It adds a click event to an element. When clicked it calls out to a function and
 **7.** Which Vue attributes(directives) could you use to conditionally render elements on a page?
 <!-- enter you answer in the space below -->
 ```
-
+V-if, v-else-if, v-else, v-show are all Vue attributes that can be used to render an element to the page.
 ```
 **8.** What is the purpose of the `key` attribute when using `v-for` on an element?
 <!-- enter you answer in the space below -->
 ```
-
+The key attribute tells Vue how your data relates to the HTML elements it's rendering to the screen. When your data changes, Vue uses these keys to know which HTML elements to remove or update, and if it needs to create any new ones.
 ```
 **9.** What is the `<slot>` element and what is it used for?
 <!-- enter you answer in the space below -->
 ```
-
+Slot is a placeholder inside a web component that you can fill with your own markup. It lets you create separate DOM trees and present them together.
 ```
